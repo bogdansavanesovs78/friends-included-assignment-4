@@ -2,6 +2,12 @@
 
 Assignment 4 application with website and Telegram entry, Supabase persistence, manager decisions, and automatic Google Sheets synchronization. All people and transactions are fictional. The course submission spreadsheet is read-only reference and is never an application destination.
 
+Live application: https://friends-included-assignment-4.vercel.app
+
+Telegram bot: https://t.me/BogdansFriendsIncludedBot
+
+Transaction ledger (Viewer): https://docs.google.com/spreadsheets/d/1k3qsTVMLL2rq8Ocuy-XkL0VfrwiN659N-YdnxKlDNWw/edit
+
 ## Setup
 
 1. Create a dedicated Supabase project. Run `supabase/schema.sql` in its SQL Editor. The service-role key is used only on the server; anonymous database access is disabled.
